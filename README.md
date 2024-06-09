@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and MERN stack**
 
-- 👯 I’m looking to collaborate on **React native applications**
+- 👯 I’m looking to collaborate on **React native Projects**
 
 - 📫 How to reach me **hasaninamul678@gmail.com**
 
